@@ -1,8 +1,8 @@
 {
-  "owner": "reflex-frp",
+  "owner": "alisonwu1",
   "repo": "reflex-platform",
-  "branch": "release/0.5.3.0",
+  "branch": "textAreaElementHasSetValue",
   "private": false,
-  "rev": "9779ea3b4c87fdc971057c561262696d5e9b1847",
-  "sha256": "0v87ilal9355xwz8y9m0zh14pm9c0f7pqch0854kkj92ybc5l62q"
+  "rev": "d4d297b1afb9ffcbac069d89858a6e7cc28bfd3a",
+  "sha256": "0haybl2cggd4qnjs6fcqk6sl02c7fa6xkp8gi6xhabj5w2z9l653"
 }
